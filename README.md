@@ -14,16 +14,6 @@ The dataset's owner is Zomato and Kaggle is the source providing the data.
 * Made sure data is Dropping unnecessary columns, Dropping duplicate rows, and Cleaning individual rows.
 * Cleaned the data, and it is ready for developing the Interactive Dashboard.
 
-## Questions
-The analysis that we are going to perform shall answer the following questions:
-
-* Total restaurants and total cuisines all over the world?
-* Which countries have the greatest number of restaurants enrolled in Zomato?
-* Which cities in India have the greatest number of "value for money restaurants?
-* What are the top 10 cuisines that have the highest number of votes in India.?
-* Which countries have restaurants that deliver online?
-* In terms of the number of restaurants, which locality has the most?
-* Which Restaurants have Good Cuisine and an average rating?
 
 ## Dashboard
 <img width="1800" alt="Dashboard snapshort" src="https://github.com/ritikaga/Zomato-Analysis-with-Python-and-visualization-with-Power-BI/assets/66274316/697a2508-fb25-4f8d-829b-803371175bf7">
